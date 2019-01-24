@@ -1,0 +1,73 @@
+a:link, a:visited {
+color: black;
+}
+
+body {
+  background: url(http://delveslanepri8402272.wp-sch.durham.gov.uk/wp-content/uploads/sites/17/2014/11/handprint-background.png) no-repeat center fixed; 
+  background-size: cover;
+
+}
+
+.container {
+   background-color: rgba(255, 255, 255, 0.89);
+  padding: 5%;
+  margin-top: 5%;
+  padding-top:0px;
+}
+
+/* footer {
+  top: 1000px;
+} */
+
+.card-deck {
+  margin-top: 2%; 
+}
+
+.carousel {
+  margin: auto;
+}
+
+img {
+  max-width: 700px;
+}
+
+.card-deck :hover {
+  color: white;
+  background-color: rgb(72, 73, 85); 
+  text-decoration: none;
+}
+
+.last-row {
+padding-top: 200px; 
+}
+
+.card-img-top {
+  max-width: 100px;
+  margin-right: 30px;
+}
+
+.navbar {
+  margin-bottom: 5%;
+ background-color: rgba(255, 255, 255, 1);
+}
+
+.blue {
+  background-color: rgb(66, 155, 182);
+}
+
+.ResumeDisplay {
+  background-color: white;
+  boarder: solid, gray 1px; 
+}
+
+.item-head {
+ line-height: 1;
+ margin-bottom: 0%;
+}
+
+.line {
+  height: 6px;
+  width: 100%;
+  border-top: 1px solid #ccc;
+  margin-bottom: 2%
+}
