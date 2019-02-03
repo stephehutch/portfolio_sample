@@ -20,6 +20,7 @@ body {
 } */
 
 .card-deck {
+  margin: auto;
   margin-top: 2%; 
 }
 
